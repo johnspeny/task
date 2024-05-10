@@ -1,0 +1,98 @@
+
+============================================================================= LUA =================================================================
+
+-- ********** Q1 Improvement ***************
+-- 1. I directly passed the anonymous fuction to the addEvent and reduced the number of named functions hence improved readability
+-- 2. Changed naming of the onLogout function parameter because the currentPlayer is passed to the anonymous function as an argument,
+--    and that would be abit confusing if they had the same name as player
+
+function onLogout(currentPlayer)
+    if currentPlayer:getStorageValue(1000) == 1 then
+      addEvent(function(player)
+          player:setStorageValue(1000, -1)
+        end, 1000, currentPlayer)
+    end
+    return true
+end
+
+
+-- ********** Q2 Improvement ***************
+-- 1. Instead of having many named variables the sql command can be directly inserted into the formatter
+
+function printSmallGuildNames(memberCount)
+    db.storeQuery(string.format("SELECT name FROM guilds WHERE max_members < %d;", memberCount))
+    print(result.getString("name"))
+end
+
+-- ********** Q3 Improvement ***************
+-- 1. Changed v to member to give better meaning to its usage 
+function removeMemberFromPlayerParty(playerId, memberName)
+    player = Player(playerId)
+    local party = player:getParty()
+    local memberToRemove = Player(memberName)
+
+    -- if no party exists or no player from party
+    -- Instead exit the function
+    if not party or not memberToRemove then
+        return
+    end
+
+    -- 
+    for _, member in pairs(party:getMembers()) do
+        if member == memberToRemove then
+          -- Once the player from party is found remove it and exit the loop 
+          -- to prevent unnecessary iterations incase the party members were too many
+          party:removeMember(memberToRemove)
+          break
+        end
+    end
+end
+
+==============================================================================================================================================
+-
+-
+-
+-
+-
+====================================================== C++ =================================================================================
+********** Q4 Improvement ***************
+
+void Game::addItemToPlayer(const std::string& recipient, uint16_t itemId)
+{
+	Player* player = g_game.getPlayerByName(recipient);
+
+	bool isPlayerNew{ false }; // To Keep track of player instance if its created in this scope or elsewhere 
+
+	if (!player) {
+		player = new Player(nullptr);
+		isPlayerNew = true; // Player has been created therefore set this variable to true
+		if (!IOLoginData::loadPlayerByName(player, recipient)) {
+			delete player; // Deallocate memory if loading fails
+			return;
+		}
+	}
+
+	Item* item = Item::CreateItem(itemId);
+	if (!item) {
+		if (isPlayerNew) {
+			delete player; // Delete the player if item creation fails
+		}
+		return;
+	}
+
+	g_game.internalAddItem(player->getInbox(), item, INDEX_WHEREEVER, FLAG_NOLIMIT);
+
+	if (player->isOffline()) {
+		IOLoginData::savePlayer(player);
+	}
+	else if (isPlayerNew) {
+		delete player; // Delete the player when done with its usage
+	}
+
+	/* If g_game.internalAddItem is not responsible for freeing the memory of item then
+	   I can safely manually free it otherwise the step below will not exist
+	*/
+	delete item; // release memory
+}
+
+=============================================================================================================================================
