@@ -1,0 +1,5 @@
+	<instant group="attack" spellid="118" name="Eternal Winter" words="exevo gran mas frigo" level="8" mana="10" premium="0" selftarget="1" cooldown="40000" groupcooldown="4000" needlearn="0" script="attack/eternal_winter.lua">
+		<vocation name="Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Elder Druid" />
+	</instant>
