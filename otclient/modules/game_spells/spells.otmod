@@ -1,0 +1,9 @@
+Module
+  name: game_spells
+  description: View available spells
+  author: Summ, Edubart
+  website: https://github.com/edubart/otclient
+  sandboxed: true
+  scripts: [ spells ]
+  @onLoad: init()
+  @onUnload: terminate()

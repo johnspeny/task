@@ -1,0 +1,1177 @@
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 11 2024 21:53:07
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+ERROR: Missing file: 740/Tibia.dat
+Missing file: 740/Tibia.spr
+
+You should open data/things and create directory 740.
+In this directory (data/things/740) you should put missing
+files (Tibia.dat and Tibia.spr/Tibia.cwm) from correct Tibia version.
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 11 2024 21:58:03
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 11 2024 22:00:34
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 11 2024 22:46:16
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Minimap couldn't be loaded, file missing?
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 16:38:24
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 17:23:43
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 17:35:53
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+WARNING: widget 'widget1320' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 17:36:11
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 17:51:26
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 17:59:10
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 18:17:58
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 21:12:50
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 21:19:37
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 21:21:48
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 21:34:21
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+ERROR: Unable to discover module from file '/modules/game_interface/interface.otmod': OTML error in '/modules/game_interface/interface.otmod' at line 45: indentation with tabs are not allowed
+FATAL ERROR: Unable to load module 'client_feedback': dependency 'game_interface' was not found
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 12 2024 21:38:39
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+ERROR: Unable to discover module from file '/modules/game_interface/interface.otmod': OTML error in '/modules/game_interface/interface.otmod' at line 30: indentation with tabs are not allowed
+FATAL ERROR: Unable to load module 'client_feedback': dependency 'game_interface' was not found
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 13 2024 00:09:31
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 09:34:58
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+WARNING: widget 'widget1320' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 09:42:14
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 09:54:47
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 09:58:01
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:00:47
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:02:54
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:24:27
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+FATAL ERROR: Unable to load module 'game_interface': /modules/game_interface/gameinterface.lua:39: attempt to index global 'gameMapPanel' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_interface/gameinterface.lua:39: in function 'init'
+	/modules/game_interface/interface.otmod:45:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in function 'loadModules'
+	/init.lua:92: in main chunk
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:26:22
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:32:11
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:34:19
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+WARNING: widget 'widget1320' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:43:48
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 10:59:45
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 12:31:13
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 12:52:30
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+WARNING: widget 'widget1320' was not explicitly destroyed
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 12:52:48
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+Login to 127.0.0.1:7172
+ERROR: lua function callback failed: /modules/corelib/ui/uimovabletabbar.lua:379: attempt to index local 'tab' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/corelib/ui/uimovabletabbar.lua:379: in function 'selectTab'
+	/modules/game_console/console.lua:1498: in function </modules/game_console/console.lua:1498>
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..
+GPU Intel(R) HD Graphics 3000 (Intel)
+OpenGL 3.1.0 - Build 9.17.10.4459
+[Atlas] Texture size is: 4096x4096 (max: 8192x8192)
+Found work dir at 'C:/Users/johns/Documents/trial_test/otclientv8-master/'
+== application started at May 14 2024 13:14:25
+OTCv8 3.2 rev 4 (dev) made by otclient.net built on Feb 26 2023 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Login to 127.0.0.1:7172
+WARNING: attempt to destroy widget 'widget1320' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: resolve error (No such host is known)
+Exiting application..

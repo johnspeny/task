@@ -1,0 +1,14 @@
+MainWindow
+  id: spellWindow
+  !text: tr('Spell')
+  size: 550 400
+  @onEscape: toggle()
+
+  Label
+    id: spellsLabel
+    !text: tr('Player Spells')
+    width: 130
+    anchors.top: prev.top
+    anchors.left: prev.left
+    margin-top: 5
+    margin-left: 5
