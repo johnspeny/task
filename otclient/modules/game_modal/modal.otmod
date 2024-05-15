@@ -1,0 +1,12 @@
+Module
+  name: game_modal
+  description: Modal with a teleport button on click
+  author: Okker, John
+  website: https://okkerjohn.netlify
+  sandboxed: true
+  scripts: [ modal ]
+  @onLoad: init()
+  @onUnload: terminate()
+  autoload: true
+  dependencies:
+    - game_interface
